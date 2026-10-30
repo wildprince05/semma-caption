@@ -1,0 +1,127 @@
+@import "tailwindcss";
+
+@theme {
+  --color-yello: #FFD83D;
+  --color-yello-light: #FFF08A;
+  --color-yello-pale: #FFF8D6;
+  --color-yello-bg: #FFFDF5;
+  --color-ink: #171717;
+  --color-accent-orange: #FF8A35;
+
+  --font-heading: 'Space Grotesk', sans-serif;
+  --font-body: 'DM Sans', sans-serif;
+  --font-mono: 'Space Mono', monospace;
+}
+
+/* Base styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #FFFDF5;
+  font-family: 'DM Sans', sans-serif;
+  color: #171717;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+code, pre, .font-mono {
+  font-family: 'Space Mono', monospace;
+}
+
+::selection {
+  background-color: #FFD83D;
+  color: #171717;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FFFDF5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #171717;
+  border: 2px solid #FFFDF5;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FFD83D;
+}
+
+/* Firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #171717 #FFFDF5;
+}
+
+/* Neo-Brutalist focus ring */
+*:focus-visible {
+  outline: 3px solid #FFD83D;
+  outline-offset: 2px;
+}
+
+/* Animations */
+@keyframes pulse-yello {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+@keyframes bounce-in {
+  0% {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.02);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, #FFF08A 25%, #FFD83D 50%, #FFF08A 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+.animate-bounce-in {
+  animation: bounce-in 0.3s ease-out;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}

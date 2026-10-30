@@ -1,0 +1,65 @@
+[
+  {
+    "id": "c546ea79-27fd-48fc-82c5-742b4bb288fa",
+    "event_data": "{\"event_name\":\"YelloHack 2025\",\"organizer\":\"Yellove Tech Community\",\"date\":\"December 20, 2025\",\"venue\":\"Main Auditorium, ABC College\",\"highlights\":[\"Prize pool Rs 1 lakh\",\"Free food\",\"Industry mentors\"],\"other_details\":\"24-hour hackathon for college students\"}",
+    "extracted_poster_data": null,
+    "style_profile": null,
+    "created_at": "2026-10-29T07:24:25.536Z"
+  },
+  {
+    "id": "6f49a020-d1d7-4fe5-a69f-600d1aa6b958",
+    "event_data": "{\"event_name\":\"YelloHack 2025\",\"organizer\":\"Yellove Tech Community\",\"date\":\"December 20, 2025\",\"venue\":\"Main Auditorium, ABC College\",\"highlights\":[\"Prize pool Rs 1 lakh\",\"Free food\",\"Industry mentors\"],\"other_details\":\"24-hour hackathon for college students\"}",
+    "extracted_poster_data": null,
+    "style_profile": null,
+    "created_at": "2026-10-29T07:25:17.107Z"
+  },
+  {
+    "id": "5fecd113-1e93-42b4-b6b0-6ae2c4230192",
+    "event_data": "{\"event_name\":\"Class 101\",\"organizer\":\"Sapiens Campus\",\"date\":\"September 18, 2026\",\"time\":\"10:00 AM - 2:00 PM\",\"venue\":\"Pickyourtrail, T Nagar\",\"registration_url\":\"https://luma.com/of5ipkhg\",\"highlights\":[\"Students Meetup\"],\"cta\":\"Tickets are live !!\",\"other_details\":\"First years meetup filled with domain based mentoring sessions, workshop on notion, speaker sessions and fun activities.\"}",
+    "extracted_poster_data": null,
+    "style_profile": null,
+    "created_at": "2026-10-29T07:29:36.860Z"
+  },
+  {
+    "id": "f4133528-838f-4a8e-b29f-f28df0bf6c55",
+    "event_data": "{\"event_name\":\"HackOverFlow 2025\",\"organizer\":\"Yellove Developers Club\",\"date\":\"November 14-16, 2025\",\"time\":\"Starts 9:00 AM\",\"venue\":\"Tech Park Auditorium, Anna University, Chennai\",\"registration_url\":\"https://hackoverflow.yellove.tech\",\"highlights\":[\"Prize pool Rs 2 Lakhs\",\"Free food and redbull\",\"Mentors from Google and Zoho\"],\"cta\":\"Register pannitu spot lock pannunga!\",\"other_details\":\"36-hour flagship national hackathon with tracks in AI, Web3 and GreenTech\"}",
+    "extracted_poster_data": null,
+    "style_profile": null,
+    "created_at": "2026-10-29T14:56:41.465Z"
+  },
+  {
+    "id": "db919fb8-cad7-4777-afd5-c3dfeef71f33",
+    "event_data": "{\"event_name\":\"CLASS 101\",\"organizer\":\"SAPIENS CAMPUS\",\"date\":\"18TH SEPTEMBER\",\"time\":\"9AM - 1PM\",\"venue\":\"PICKYOURTRAIL, T.NAGAR\",\"registration_url\":\"Codesapiens.in\",\"eligibility\":null,\"fees\":null,\"prize_pool\":null,\"tracks\":[],\"speakers\":[],\"sponsors\":[],\"highlights\":[],\"cta\":null,\"other_details\":\"Follow Us On: Instagram, WhatsApp, LinkedIn\"}",
+    "extracted_poster_data": "{\"event_name\":\"CLASS 101\",\"organizer\":\"SAPIENS CAMPUS\",\"date\":\"18TH SEPTEMBER\",\"time\":\"9AM - 1PM\",\"venue\":\"PICKYOURTRAIL, T.NAGAR\",\"registration_url\":\"Codesapiens.in\",\"eligibility\":null,\"fees\":null,\"prize_pool\":null,\"tracks\":[],\"speakers\":[],\"sponsors\":[],\"highlights\":[],\"cta\":null,\"other_details\":\"Follow Us On: Instagram, WhatsApp, LinkedIn\"}",
+    "style_profile": null,
+    "created_at": "2026-10-29T15:07:24.563Z"
+  },
+  {
+    "id": "366db70c-b9d0-4baa-88fb-e2466ff0f878",
+    "event_data": "{\"event_name\":\"CLASS 101\",\"organizer\":\"SAPIENS CAMPUS\",\"date\":\"18TH SEPTEMBER\",\"time\":\"9AM - 1PM\",\"venue\":\"PICKYOURTRAIL, T.NAGAR\",\"registration_url\":\"Codesapiens.in\",\"eligibility\":null,\"fees\":null,\"prize_pool\":null,\"tracks\":[],\"speakers\":[],\"sponsors\":[],\"highlights\":[],\"cta\":null,\"other_details\":\"Follow Us On: Instagram, WhatsApp, LinkedIn\"}",
+    "extracted_poster_data": "{\"event_name\":\"CLASS 101\",\"organizer\":\"SAPIENS CAMPUS\",\"date\":\"18TH SEPTEMBER\",\"time\":\"9AM - 1PM\",\"venue\":\"PICKYOURTRAIL, T.NAGAR\",\"registration_url\":\"Codesapiens.in\",\"eligibility\":null,\"fees\":null,\"prize_pool\":null,\"tracks\":[],\"speakers\":[],\"sponsors\":[],\"highlights\":[],\"cta\":null,\"other_details\":\"Follow Us On: Instagram, WhatsApp, LinkedIn\"}",
+    "style_profile": null,
+    "created_at": "2026-10-29T15:07:40.951Z"
+  },
+  {
+    "id": "96e6a010-cca4-4dd7-ab07-1efb727736ba",
+    "event_data": "{\"event_name\":\"CLASS 101\",\"organizer\":\"SAPIENS CAMPUS\",\"date\":\"18TH SEPTEMBER\",\"time\":\"9AM - 1PM\",\"venue\":\"PICKYOURTRAIL, T.NAGAR\",\"registration_url\":\"Codesapiens.in\",\"eligibility\":null,\"fees\":null,\"prize_pool\":null,\"tracks\":[],\"speakers\":[],\"sponsors\":[],\"highlights\":[],\"cta\":null,\"other_details\":\"Follow Us On: Instagram, WhatsApp, LinkedIn\"}",
+    "extracted_poster_data": "{\"event_name\":\"CLASS 101\",\"organizer\":\"SAPIENS CAMPUS\",\"date\":\"18TH SEPTEMBER\",\"time\":\"9AM - 1PM\",\"venue\":\"PICKYOURTRAIL, T.NAGAR\",\"registration_url\":\"Codesapiens.in\",\"eligibility\":null,\"fees\":null,\"prize_pool\":null,\"tracks\":[],\"speakers\":[],\"sponsors\":[],\"highlights\":[],\"cta\":null,\"other_details\":\"Follow Us On: Instagram, WhatsApp, LinkedIn\"}",
+    "style_profile": null,
+    "created_at": "2026-10-29T15:08:30.692Z"
+  },
+  {
+    "id": "c8ea828f-7fa3-482e-875e-83d011eec152",
+    "event_data": "{\"event_name\":\"CLASS 101\",\"organizer\":\"SAPIENS CAMPUS\",\"date\":\"18TH SEPTEMBER\",\"time\":\"9AM - 1PM\",\"venue\":\"PICKYOURTRAIL, T.NAGAR\",\"registration_url\":\"Codesapiens.in\",\"eligibility\":null,\"fees\":null,\"prize_pool\":null,\"tracks\":[],\"speakers\":[],\"sponsors\":[],\"highlights\":[],\"cta\":null,\"other_details\":\"Follow Us On: Instagram, WhatsApp, LinkedIn\"}",
+    "extracted_poster_data": "{\"event_name\":\"CLASS 101\",\"organizer\":\"SAPIENS CAMPUS\",\"date\":\"18TH SEPTEMBER\",\"time\":\"9AM - 1PM\",\"venue\":\"PICKYOURTRAIL, T.NAGAR\",\"registration_url\":\"Codesapiens.in\",\"eligibility\":null,\"fees\":null,\"prize_pool\":null,\"tracks\":[],\"speakers\":[],\"sponsors\":[],\"highlights\":[],\"cta\":null,\"other_details\":\"Follow Us On: Instagram, WhatsApp, LinkedIn\"}",
+    "style_profile": null,
+    "created_at": "2026-10-29T15:12:16.592Z"
+  },
+  {
+    "id": "746fbe3b-ee09-47e6-805d-716ed3aa987c",
+    "event_data": "{\"event_name\":\"CLASS 101\",\"organizer\":\"SAPIENS CAMPUS\",\"date\":\"18TH SEPTEMBER\",\"time\":\"9AM - 1PM\",\"venue\":\"PICKYOURTRAIL, T.NAGAR\",\"registration_url\":\"Codesapiens.in\",\"eligibility\":null,\"fees\":null,\"prize_pool\":null,\"tracks\":[],\"speakers\":[],\"sponsors\":[],\"highlights\":[],\"cta\":null,\"other_details\":\"Follow Us On: Instagram, WhatsApp, LinkedIn\"}",
+    "extracted_poster_data": "{\"event_name\":\"CLASS 101\",\"organizer\":\"SAPIENS CAMPUS\",\"date\":\"18TH SEPTEMBER\",\"time\":\"9AM - 1PM\",\"venue\":\"PICKYOURTRAIL, T.NAGAR\",\"registration_url\":\"Codesapiens.in\",\"eligibility\":null,\"fees\":null,\"prize_pool\":null,\"tracks\":[],\"speakers\":[],\"sponsors\":[],\"highlights\":[],\"cta\":null,\"other_details\":\"Follow Us On: Instagram, WhatsApp, LinkedIn\"}",
+    "style_profile": null,
+    "created_at": "2026-10-29T15:14:09.161Z"
+  }
+]
